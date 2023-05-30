@@ -1,4 +1,3 @@
-'use client'
 import React, { useState } from 'react'
 import { MdDarkMode, MdLightMode } from 'react-icons/md'
 import { VscColorMode } from 'react-icons/vsc'
